@@ -12,9 +12,6 @@ Tincat:
 Drum Kit Game:
 [Repo](https://github.com/AnevRensburg/drum-kit-game) | [Demo](https://anevrensburg.github.io/drum-kit-game/)
 
-Dicee Game:
-[Repo](https://github.com/AnevRensburg/drum-kit-game) | [Demo](https://anevrensburg.github.io/dicee-game/)
-
 CSS My Site:
 [Repo](https://github.com/AnevRensburg/css-my-site) | [Demo](https://anevrensburg.github.io/css-my-site/)
 
